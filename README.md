@@ -1,5 +1,27 @@
 # PragmaticProgrammer
 
+A repository to implement good engineering practices into my coding with the pragmatic programmer book
+
+# Table of Contents
+
+## [Chapter One: A Pragmatic Philosophy](https://github.com/dmkaner/PragmaticProgrammer#chapter-one-a-pragmatic-philosophy)
+
+## [Chapter Two: A Pragmatic Approach](https://github.com/dmkaner/PragmaticProgrammer#chapter-two-a-pragmatic-approach)
+
+## [Chapter Three: The Basic Tools](https://github.com/dmkaner/PragmaticProgrammer#chapter-three-the-basic-tools)
+
+## [Chapter Four: Pragmatic Paranoia](https://github.com/dmkaner/PragmaticProgrammer#chapter-four-pragmatic-paranoia)
+
+## [Chapter Five: Bend, or Break](https://github.com/dmkaner/PragmaticProgrammer#chapter-five-bend-or-break)
+
+## [Chapter Six: Concurrency](https://github.com/dmkaner/PragmaticProgrammer#chapter-six-concurrency)
+
+## [Chapter Seven: While You are Coding](https://github.com/dmkaner/PragmaticProgrammer#chapter-seven-while-you-are-coding)
+
+## [Chapter Eight: Before the Project](https://github.com/dmkaner/PragmaticProgrammer#chapter-eight-before-the-project)
+
+## [Chapter Nine: Pragmatic Projects](https://github.com/dmkaner/PragmaticProgrammer#chapter-nine-pragmatic-projects)
+
 
 
 ## Chapter One: A Pragmatic Philosophy
