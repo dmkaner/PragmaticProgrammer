@@ -4,23 +4,23 @@ A repository to implement good engineering practices into my coding with the pra
 
 ## Table of Contents
 
-### [Chapter One: A Pragmatic Philosophy](https://github.com/dmkaner/PragmaticProgrammer#chapter-one-a-pragmatic-philosophy)
+### [Chapter One: A Pragmatic Philosophy](https://github.com/dmkaner/PragmaticProgrammer#chapter-one-a-pragmatic-philosophy-1)
 
-### [Chapter Two: A Pragmatic Approach](https://github.com/dmkaner/PragmaticProgrammer#chapter-two-a-pragmatic-approach)
+### [Chapter Two: A Pragmatic Approach](https://github.com/dmkaner/PragmaticProgrammer#chapter-two-a-pragmatic-approach-1)
 
-### [Chapter Three: The Basic Tools](https://github.com/dmkaner/PragmaticProgrammer#chapter-three-the-basic-tools)
+### [Chapter Three: The Basic Tools](https://github.com/dmkaner/PragmaticProgrammer#chapter-three-the-basic-tools-1)
 
-### [Chapter Four: Pragmatic Paranoia](https://github.com/dmkaner/PragmaticProgrammer#chapter-four-pragmatic-paranoia)
+### [Chapter Four: Pragmatic Paranoia](https://github.com/dmkaner/PragmaticProgrammer#chapter-four-pragmatic-paranoia-1)
 
-### [Chapter Five: Bend, or Break](https://github.com/dmkaner/PragmaticProgrammer#chapter-five-bend-or-break)
+### [Chapter Five: Bend, or Break](https://github.com/dmkaner/PragmaticProgrammer#chapter-five-bend-or-break-1)
 
-### [Chapter Six: Concurrency](https://github.com/dmkaner/PragmaticProgrammer#chapter-six-concurrency)
+### [Chapter Six: Concurrency](https://github.com/dmkaner/PragmaticProgrammer#chapter-six-concurrency-1)
 
-### [Chapter Seven: While You are Coding](https://github.com/dmkaner/PragmaticProgrammer#chapter-seven-while-you-are-coding)
+### [Chapter Seven: While You are Coding](https://github.com/dmkaner/PragmaticProgrammer#chapter-seven-while-you-are-coding-1)
 
-### [Chapter Eight: Before the Project](https://github.com/dmkaner/PragmaticProgrammer#chapter-eight-before-the-project)
+### [Chapter Eight: Before the Project](https://github.com/dmkaner/PragmaticProgrammer#chapter-eight-before-the-project-1)
 
-### [Chapter Nine: Pragmatic Projects](https://github.com/dmkaner/PragmaticProgrammer#chapter-nine-pragmatic-projects)
+### [Chapter Nine: Pragmatic Projects](https://github.com/dmkaner/PragmaticProgrammer#chapter-nine-pragmatic-projects-1)
 
 
 
